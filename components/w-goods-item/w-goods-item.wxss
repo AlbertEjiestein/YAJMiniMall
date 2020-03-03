@@ -1,0 +1,41 @@
+/* components/w-goods-item/w-goods-item.wxss */
+.goodsitem {
+  text-align: center;
+  color: #333;
+  padding-bottom: 85rpx;
+}
+
+.image {
+  width: 100%;
+  border-radius: 10rpx;
+}
+
+.desc-info {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 5rpx;
+}
+
+.title {
+  font-size: 28rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.info {
+  font-size: 26rpx;
+}
+
+.info .price {
+  color: #ff5777;
+}
+
+.info .icon {
+  width:30rpx;
+  height: 30rpx;
+  padding: 0 6rpx 0 10rpx;
+  position: relative;
+  top: 6rpx;
+}

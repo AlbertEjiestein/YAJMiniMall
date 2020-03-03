@@ -1,0 +1,16 @@
+/* components/w-goods/w-goods.wxss */
+.goods {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 8rpx;
+  justify-content: space-around
+}
+
+.goods > .goodsitem {
+  position: relative;
+}
+
+.goods > .goodsitem {
+  width: 48%;
+  margin-top: 20rpx;
+}

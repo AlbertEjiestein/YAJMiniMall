@@ -1,0 +1,4 @@
+<!--pages/home/childCpns/feature/feature.wxml-->
+<view class="feature">
+  <image src="/assets/images/home/recommend_bg.jpg"></image>
+</view>

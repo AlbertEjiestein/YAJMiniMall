@@ -1,0 +1,4 @@
+/* pages/home/childCpns/feature/feature.wxss */
+.feature image {
+  width: 100%;
+}
